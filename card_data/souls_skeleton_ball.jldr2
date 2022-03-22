@@ -10,7 +10,7 @@
     "baseAttack": 0,
     "baseHealth": 3,
     "flipPortraitForStrafe":true,
-    "bloodCost": 1,
+    "bonesCost": 2,
     "appearanceBehaviour": ["TerrainLayout"],
     "texture":"souls_skeleton_ball.png"
 }
