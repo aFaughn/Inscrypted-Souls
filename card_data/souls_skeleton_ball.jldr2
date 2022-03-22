@@ -9,6 +9,7 @@
     "temple":"Nature",
     "baseAttack": 0,
     "baseHealth": 3,
+    "flipPortraitForStrafe":true,
     "bloodCost": 1,
     "appearanceBehaviour": ["TerrainLayout"],
     "texture":"souls_skeleton_ball.png"

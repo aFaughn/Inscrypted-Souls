@@ -1,0 +1,19 @@
+{
+    "name":"souls_child_shroom",
+    "modPrefix":"souls",
+    "displayedName":"Child Mushroom",
+    "description":"Fungi Dwarf",
+    "metaCategories":["ChoiceNode","TraderOffer"],
+    "cardComplexity":"Vanilla",
+    "abilities":["Evolve"],
+    "evolveIntoName":"souls_adult_shroom",
+    "evolveTurns":2,
+    "temple":"Nature",
+    "tribe":"Hoved",
+    "baseAttack": 1,
+    "baseHealth": 2,
+    "bloodCost": 1,
+    "appearanceBehaviour": ["TerrainLayout"],
+    "texture":"souls_child_shroom.png",
+    "altTexture":"souls_adult_shroom.png"
+}
