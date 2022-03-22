@@ -1,0 +1,15 @@
+{
+    "name":"souls_skeleton_ball",
+    "modPrefix":"souls",
+    "displayedName":"Ball of Skeletons",
+    "description":"Undead Amalgam",
+    "metaCategories":["ChoiceNode","TraderOffer"],
+    "cardComplexity":"Vanilla",
+    "abilities":["SkeletonStrafe"],
+    "temple":"Nature",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "bloodCost": 1,
+    "appearanceBehaviour": ["TerrainLayout"],
+    "texture":"souls_skeleton_ball.png"
+}
