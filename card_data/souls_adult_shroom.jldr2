@@ -12,5 +12,5 @@
     "bloodCost": 3,
     "appearanceBehaviour": ["TerrainLayout"],
     "texture":"souls_adult_shroom.png",
-    "emmissionTexture":"souls_adult_shroom_em.png"
+    "emissionTexture":"souls_adult_shroom_em.png"
 }
