@@ -1,0 +1,16 @@
+{
+    "name":"souls_adult_shroom",
+    "modPrefix":"souls",
+    "displayedName":"Adult Mushroom",
+    "description":"Big Angry Fungi",
+    "metaCategories":["ChoiceNode","TraderOffer"],
+    "cardComplexity":"Vanilla",
+    "temple":"Nature",
+    "tribe":"Hooved",
+    "baseAttack": 5,
+    "baseHealth": 4,
+    "bloodCost": 3,
+    "appearanceBehaviour": ["TerrainLayout"],
+    "texture":"souls_adult_shroom.png",
+    "emmissionTexture":"souls_adult_shroom_em.png"
+}
